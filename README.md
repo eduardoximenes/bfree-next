@@ -1,1 +1,2 @@
-# bfree-next
+# Bfree using NextJS
+Study Case

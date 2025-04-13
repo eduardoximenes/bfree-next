@@ -1,7 +1,7 @@
 'use client';
 
 import { useParams } from 'next/navigation';
-import CompanyForm from '@/components/form/company/CompanyForm';
+import CompanyForm from '@/app/_components/form/companies/CompanyForm';
 
 export default function EditCompanyPage() {
     const { id } = useParams();

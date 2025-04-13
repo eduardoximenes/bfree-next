@@ -1,6 +1,6 @@
 'use client';
 
-import CompanyForm from '@/components/form/company/CompanyForm';
+import CompanyForm from '@/app/_components/form/companies/CompanyForm';
 
 export default function CreateCompanyPage() {
     return <CompanyForm mode='create' />;
